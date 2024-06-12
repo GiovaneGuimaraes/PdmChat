@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626575774129",
+    "project_id": "pdm-chat-giovane",
+    "storage_bucket": "pdm-chat-giovane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626575774129:android:35c92c08d8ee31721a2d90",
+        "android_client_info": {
+          "package_name": "com.example.pdmchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmZBX4Jk8punhbHzKP5eT-Oqz0XmxxWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
